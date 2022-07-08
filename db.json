@@ -14,6 +14,11 @@
       "id": 3,
       "rating": 9,
       "text": "This is feedback from JSON Server 3"
+    },
+    {
+      "text": "This is a new item - updated",
+      "rating": 3,
+      "id": 4
     }
   ]
 }
